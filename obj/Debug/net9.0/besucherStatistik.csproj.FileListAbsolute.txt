@@ -1,0 +1,14 @@
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.AssemblyInfoInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.AssemblyInfo.cs
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.csproj.CoreCompileInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\bin\Debug\net9.0\besucherStatistik.exe
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\bin\Debug\net9.0\besucherStatistik.deps.json
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\bin\Debug\net9.0\besucherStatistik.runtimeconfig.json
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\bin\Debug\net9.0\besucherStatistik.dll
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\bin\Debug\net9.0\besucherStatistik.pdb
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.dll
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\refint\besucherStatistik.dll
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.pdb
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\besucherStatistik.genruntimeconfig.cache
+C:\Users\SandySaray\Entwicklung-C#\besucherStatistik\obj\Debug\net9.0\ref\besucherStatistik.dll
